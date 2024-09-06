@@ -27,5 +27,5 @@ Este projeto web tem como objetivo fornecer uma lista de datas comemorativas par
 4. **Clique no botão "Pesquisar" para exibir os resultados.**
 
 ## Autora
-Este projeto foi desenvolvido por [Sarah Santana](https://www.linkedin.com/in/sarah-santana-843394200/) durante a Imersão Dev da Alura em setembro de 2024.
+Este projeto foi desenvolvido por [Sarah Santana](https://www.linkedin.com/in/sarah-santana-843394200/) em setembro de 2024.
 

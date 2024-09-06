@@ -1,67 +1,32 @@
-// let dadosJaneiro = [
-//     {
-//         titulo: '01/01',
-//         descricao: 'Dia 01/01 é celebrado: Ano Novo, Dia da Confraternização Universal, Dia Mundial da Paz',
-//         link: 'https://www.calendarr.com/brasil/calendario-janeiro-2024/',
-//         tags: 'ano novo festa comemoracao', 
-//     },
-    
-//     {
-//         titulo: '02/01',
-//         descricao: 'Dia 02/01 é celebrado: Dia do Sanitarista, Dia Mundial do Introvertido, Dia do Confeiteiro',
-//         link: 'https://www.calendarr.com/brasil/calendario-janeiro-2024/',
-//         tags: 'sanitarista introvertido confeiteiro',
-//     },
-    
-//     {
-//         titulo: '03/01',
-//         descricao: 'Dia 03/01 é celebrado: Dia do Juiz de Menores',
-//         link: 'https://www.calendarr.com/brasil/calendario-janeiro-2024/',
-//         tags: 'juiz menores ',
-//     },
-    
-//     {
-//         titulo: '04/01',
-//         descricao: 'Dia Nacional da Abreugrafia, Dia Mundial do Braille, Dia do Hemofílico',
-//         link: 'https://www.calendarr.com/brasil/calendario-janeiro-2024/',
-//         tags: 'abreugrafia braille hemofilico',
-//     },
+// let dadosJaneiro = [{
 
-
-// ];
+// }];
 
 // let dadosFevereiro = [{
 
-    
 // }];
 
 // let dadosMarco = [{
      
-    
 // }];
 
 // let dadosAbril = [{
-    
     
 // }];
 
 // let dadosMaio = [{
       
-    
 // }];
 
 // let dadosJunho = [{
-
 
 // }];
 
 // let dadosJulho = [{
 
-
 // }];
 
 // let dadosAgosto = [{
-
 
 // }];
 

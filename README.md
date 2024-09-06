@@ -24,7 +24,7 @@ Este projeto web tem como objetivo fornecer uma lista de datas comemorativas par
 
 3. **Realize a busca por palavras-chave no campo de busca.**
 
-4. **Clique no botão "Buscar" para exibir os resultados.**
+4. **Clique no botão "Pesquisar" para exibir os resultados.**
 
 ## Autora
 Este projeto foi desenvolvido por [Sarah Santana](https://www.linkedin.com/in/sarah-santana-843394200/) durante a Imersão Dev da Alura em setembro de 2024.
